@@ -9,16 +9,6 @@ Die Tests wurden auf der Fake Store API durchgeführt.
 
 Alle Testfälle und Bug Reports basieren auf dieser REST-API.
 
-📁 Projektstruktur
-/excel
-   API_Test_Dokumentation.xlsx
-
-/testfaelle
-   testfaelle.md
-
-/fehlerberichte
-   fehlerberichte.md
-
 README.md
 🧪 Testfälle (Sheet: „Testfälle“)
 
